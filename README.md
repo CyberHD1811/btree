@@ -1,6 +1,8 @@
 # B-Tree
 
-**Version *1.0.0***
+**Version *1.0.1***
+
+**License *BSD-3-Clause-Clear***
 
 ## ⚠️ Disclaimer ⚠️
 
@@ -35,10 +37,10 @@ A b-tree has a degree $d$, with $d\geq2$, which has the following characteristic
 
 - $d$ is the minimum number of children each *inner* node (except the root) must have.
   </br>
-  $\rightarrow$ The root must have at least $2$ children.
+  $\rightarrow$ If the root is an *inner* node, it must have at least $2$ children.
 - $d-1$ is the minimum number of keys each node (except the root) must have.
   </br>
-  $\rightarrow$ The root can have $0$ keys, which would mean that the b-tree is empty. 
+  $\rightarrow$ The root can have $0$ keys, which would mean that the b-tree is empty.
 - $2\cdot d-1$ is the maximum number of children each *inner* node can have.
 - $2\cdot d-2$ is the maximum number of keys each node can have. 
 
