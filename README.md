@@ -9,7 +9,7 @@
 Although i tried my best to write an efficient implementation and correct/formal definitions, i cannot guarantee that they are either efficient, well designed and/or correct.
 Also i must say that i'm just a computer science student and do not claim my definitions to be 100% correct.
 
-If you have any questions or feedback, feel free to ask via a [Github Issue](https://github.com/CyberHD1811/b-tree/issues) or via [mail](btree.github@contact.cyberhd1811.eu).
+If you have any questions or feedback, feel free to ask via a [Github Issue](https://github.com/CyberHD1811/b-tree/issues) or via [mail](mailto:btree.github@contact.cyberhd1811.eu).
 
 ## Introduction
 
